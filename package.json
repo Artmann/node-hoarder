@@ -1,6 +1,6 @@
 {
   "name": "node-hoarder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Your Slick Cache Library",
   "main": "dist/index.js",
   "repository": "https://github.com/Artmann/node-hoarder",
