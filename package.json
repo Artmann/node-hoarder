@@ -6,6 +6,10 @@
   "repository": "https://github.com/Artmann/node-hoarder",
   "author": "Christoffer Artmann <artgaard@gmail.com>",
   "license": "MIT",
+  "keywords": [
+    "cache",
+    "lru-cache"
+  ],
   "scripts": {
     "build": "tsc",
     "lint": "eslint src/**/*.ts",
