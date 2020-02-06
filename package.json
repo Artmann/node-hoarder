@@ -9,6 +9,7 @@
   "scripts": {
     "build": "tsc",
     "lint": "eslint src/**/*.ts",
+    "prepublish": "yarn build",
     "test": "jest --coverage",
     "test:watch": "jest --watchAll"
   },
